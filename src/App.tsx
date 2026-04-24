@@ -7,6 +7,7 @@ function App() {
     <main className="min-h-screen w-full flex flex-col" >
       <MobileWarning />
      	<A4Template />
+      <FeedbackButton />
     </main>
   );
 }
